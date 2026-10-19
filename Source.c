@@ -14,6 +14,7 @@ void domik(void)
     puts("|      |");
     puts("|______|");
 
+
 }
 
 int main(void)
